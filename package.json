@@ -1,0 +1,14 @@
+{
+    "name": "worldmap-cli",
+    "version": "1.0.0",
+    "license": "MIT",
+    "bin": {
+        "worldmap": "bin/worldmap"
+    },
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+        "blessed": "^0.1.81",
+        "blessed-contrib": "^4.8.15"
+    }
+}
