@@ -10,3 +10,8 @@
 $ npm install worldmap-cli
 $ worldmap
 ```
+
+## Dependencies
+https://github.com/chjj/blessed
+
+https://github.com/yaronn/blessed-contrib
