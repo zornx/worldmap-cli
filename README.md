@@ -7,7 +7,7 @@
 
 ## Instructions
 ```sh
-$ npm install worldmap-cli
+$ npm install -g worldmap-cli
 $ worldmap
 ```
 
