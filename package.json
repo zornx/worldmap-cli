@@ -1,7 +1,19 @@
 {
     "name": "worldmap-cli",
     "version": "1.0.0",
+    "description": "A CLI app of World Map",
     "license": "MIT",
+    "homepage": "https://github.com/zornx/worldmap-cli#readme",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/zornx/worldmap-cli.git"
+    },
+    "keywords": [
+      "worldmap",
+      "countries",
+      "location"
+    ],
+    "preferGlobal": true,
     "bin": {
         "worldmap": "bin/worldmap"
     },
