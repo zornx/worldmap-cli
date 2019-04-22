@@ -2,6 +2,8 @@
 
 <img src="./cli-image.png" alt="term" width="800">
 
+https://www.npmjs.com/package/worldmap-cli
+
 ## Requirements
 - Node.js. & NPM
 
